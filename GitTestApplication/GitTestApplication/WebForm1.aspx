@@ -13,6 +13,7 @@
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
         <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
+        <asp:RadioButton ID="RadioButton1" runat="server" /><asp:RadioButton ID="RadioButton2" runat="server" /><asp:RadioButton ID="RadioButton3" runat="server" />
     </div>
     </form>
 </body>
