@@ -12,6 +12,7 @@
         <asp:Button ID="Button1" runat="server" Text="Button" />
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        <asp:Calendar ID="Calendar1" runat="server"></asp:Calendar>
     </div>
     </form>
 </body>
